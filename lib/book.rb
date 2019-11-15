@@ -6,5 +6,7 @@ def title
   @title
 end
 attr_accessor :author, :genre, :page_count
-
+def turn_page
+  
+end
 end
