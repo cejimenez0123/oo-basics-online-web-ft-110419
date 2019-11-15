@@ -7,6 +7,6 @@ def title
 end
 attr_accessor :author, :genre, :page_count
 def turn_page
-  @title
+  puts "Flipping the page...wow you read fast!"
 end
 end
