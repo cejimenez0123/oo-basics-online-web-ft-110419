@@ -1,9 +1,7 @@
 class Book
-def initialized(title,author_name,page_count,genre)
+def initialized(title)
   @title = title
-  @author_name = author_name
-  @page_count = page_count
-  @genre = genre
+
 end
 
 end
